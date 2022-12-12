@@ -1,0 +1,1 @@
+import{_ as e}from"../../chunk-de093346.js";import{o as t,p as o}from"../../chunk-08cc74e4.js";const r={};function n(s,c,a,p,_,f){return t(),o("div",null," test ")}const l=e(r,[["render",n]]);export{l as default};
